@@ -12337,8 +12337,8 @@
 				)
 			)
 		)
-		(property "Value" "0"
-			(at 113.03 93.98 90)
+		(property "Value" "22k"
+			(at 109.22 99.06 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12632,8 +12632,8 @@
 				)
 			)
 		)
-		(property "Value" "0"
-			(at 115.57 93.98 90)
+		(property "Value" "22k"
+			(at 116.84 99.06 90)
 			(effects
 				(font
 					(size 1.27 1.27)
