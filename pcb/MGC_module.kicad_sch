@@ -4959,7 +4959,7 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 88.9) (xy 111.76 95.25)
+			(xy 111.76 87.63) (xy 111.76 95.25)
 		)
 		(stroke
 			(width 0)
@@ -5419,7 +5419,7 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 88.9) (xy 114.3 95.25)
+			(xy 114.3 87.63) (xy 114.3 95.25)
 		)
 		(stroke
 			(width 0)
@@ -6848,7 +6848,7 @@
 		(uuid "517a4470-05cc-4c38-a43f-baf63f44cde9")
 	)
 	(label "RXD"
-		(at 114.3 88.9 270)
+		(at 114.3 87.63 270)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7458,7 +7458,7 @@
 		(uuid "eea7c4ae-20c1-4b7d-a0d2-b0a4fa47bebd")
 	)
 	(label "TXD"
-		(at 111.76 88.9 270)
+		(at 111.76 87.63 270)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8641,7 +8641,7 @@
 				)
 			)
 		)
-		(property "Value" "0"
+		(property "Value" "0R"
 			(at 207.01 132.08 90)
 			(effects
 				(font
@@ -9371,7 +9371,7 @@
 				)
 			)
 		)
-		(property "Value" "0"
+		(property "Value" "0R"
 			(at 243.84 121.92 90)
 			(effects
 				(font
@@ -9549,7 +9549,7 @@
 				)
 			)
 		)
-		(property "Value" "0"
+		(property "Value" "0R"
 			(at 157.48 114.3 90)
 			(effects
 				(font
@@ -9841,7 +9841,7 @@
 				)
 			)
 		)
-		(property "Value" "0"
+		(property "Value" "0R"
 			(at 157.48 137.16 90)
 			(effects
 				(font
@@ -10168,7 +10168,7 @@
 				)
 			)
 		)
-		(property "Value" "0"
+		(property "Value" "0R"
 			(at 243.84 127 90)
 			(effects
 				(font
@@ -10461,7 +10461,7 @@
 				)
 			)
 		)
-		(property "Value" "0"
+		(property "Value" "0R"
 			(at 231.14 132.08 90)
 			(effects
 				(font
@@ -11065,7 +11065,7 @@
 				)
 			)
 		)
-		(property "Value" "0"
+		(property "Value" "0R"
 			(at 271.78 127 90)
 			(effects
 				(font
@@ -11401,7 +11401,7 @@
 				)
 			)
 		)
-		(property "Value" "0"
+		(property "Value" "0R"
 			(at 243.84 132.08 90)
 			(effects
 				(font
@@ -11709,7 +11709,7 @@
 				)
 			)
 		)
-		(property "Value" "0"
+		(property "Value" "0R"
 			(at 160.02 118.11 90)
 			(effects
 				(font
@@ -11942,8 +11942,8 @@
 				)
 			)
 		)
-		(property "Value" "0"
-			(at 69.85 93.98 90)
+		(property "Value" "0R"
+			(at 67.31 93.98 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12338,7 +12338,7 @@
 			)
 		)
 		(property "Value" "22k"
-			(at 109.22 99.06 90)
+			(at 110.49 93.98 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12633,7 +12633,7 @@
 			)
 		)
 		(property "Value" "22k"
-			(at 116.84 99.06 90)
+			(at 113.03 93.98 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13024,8 +13024,8 @@
 				)
 			)
 		)
-		(property "Value" "0"
-			(at 90.17 93.98 90)
+		(property "Value" "0R"
+			(at 87.63 93.98 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16376,8 +16376,8 @@
 				)
 			)
 		)
-		(property "Value" "0"
-			(at 92.71 93.98 90)
+		(property "Value" "0R"
+			(at 90.17 93.98 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16888,7 +16888,7 @@
 				)
 			)
 		)
-		(property "Value" "150"
+		(property "Value" "10k"
 			(at 162.56 88.9 90)
 			(effects
 				(font
@@ -16923,7 +16923,7 @@
 				(hide yes)
 			)
 		)
-		(property "HTL" "102934"
+		(property "HTL" "102967"
 			(at 162.56 86.36 90)
 			(effects
 				(font
@@ -17833,7 +17833,7 @@
 				)
 			)
 		)
-		(property "Value" "0"
+		(property "Value" "0R"
 			(at 160.02 125.73 90)
 			(effects
 				(font
@@ -17946,8 +17946,8 @@
 				)
 			)
 		)
-		(property "Value" "0"
-			(at 67.31 93.98 90)
+		(property "Value" "0R"
+			(at 64.77 93.98 90)
 			(effects
 				(font
 					(size 1.27 1.27)
